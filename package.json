@@ -9,6 +9,6 @@
   "author": "Dennis Juman",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^5.36.2"
+    "webpack": "^5.94.0"
   }
 }
